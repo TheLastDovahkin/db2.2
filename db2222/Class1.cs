@@ -8,5 +8,6 @@ namespace db2222
 {
     class Class1
     {
+        fffff
     }
 }
